@@ -26,7 +26,7 @@ You've opened my code drawer.
                 <summary><a href="#"><img valign="middle" width="30" src="https://raw.githubusercontent.com/eduardoboucas/eduardoboucas/master/russian-doll.png"/></a></summary>
                 <details>
                   <summary><a href="#"><img valign="middle" width="25" src="https://raw.githubusercontent.com/eduardoboucas/eduardoboucas/master/russian-doll.png"/></a></summary>
-                  🦄               
+                  🏳️‍🌈               
                 </details>                
               </details>
             </details>
