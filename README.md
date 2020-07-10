@@ -1,4 +1,4 @@
-## Hello, fellow passenger of the Internet!
+## Hello!
 
 You've opened my code drawer.
 
