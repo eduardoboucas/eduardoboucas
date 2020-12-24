@@ -3,7 +3,6 @@
 You've opened my code drawer.
 
 - 🗒 &nbsp; I write about my journey through building (and breaking) websites at [Build Times](https://eduardoboucas.com/).
-- 💼 &nbsp; I get to work on a super exciting product at [Stackbit](https://github.com/stackbithq).
 - 🧩 &nbsp; I've sort of specialised in [API-first](https://www.youtube.com/watch?v=MGMomf8Ogw0) systems and decoupled web applications.
 - 🔧 &nbsp; I love creating things for developers – from [web performance monitoring tools](https://www.youtube.com/watch?v=qYVhlsmFykI) to [open-source commenting systems](https://staticman.net/).
 - 🚀 &nbsp; I'm bullish about the [Jamstack](https://jamstack.org/) and my work involves [building tools](https://www.youtube.com/watch?v=fPvfeP1lzTY&t=2s) that bring the technology closer to developers.
